@@ -1,0 +1,17 @@
+{
+  "name": "now-rust-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel *.html",
+    "build": "parcel build *.html",
+    "now-build": "npm build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^1.11.0"
+  }
+}
